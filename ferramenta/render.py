@@ -17,7 +17,6 @@ def css():
 @font-face{{font-family:Intr;src:url('{f('Inter[opsz,wght].ttf')}');font-weight:100 900}}
 @font-face{{font-family:Plex;src:url('{f('IBMPlexMono-Medium.ttf')}');font-weight:500}}
 @font-face{{font-family:PlexSB;src:url('{f('IBMPlexMono-SemiBold.ttf')}');font-weight:600}}
-@font-face{{font-family:Cons;src:url('{f('Consolas-arrow.ttf')}')}}
 @page{{size:{PW}pt {PH}pt;margin:0}}
 *{{box-sizing:border-box}}
 html,body{{margin:0;padding:0;background:#fff}}
@@ -69,6 +68,14 @@ class Page:
         # CHECK_PTS estao no sistema da caixa 376x376 do circulo (ja deslocados)
         pts = ' '.join(f'{n(cx + x * k)},{n(cy + y * k)}' for x, y in CHECK_PTS)
         s.svg.append(f'<polygon points="{pts}" fill="{color}" stroke="{color}" stroke-width="{n(0.12*d/11.2)}" stroke-linejoin="round"/>')
+    def arrow(s, x, b, size, color):
+        """seta → desenhada em SVG (substitui o glifo da Consolas), na mesma caixa do glifo original"""
+        k = size / 2048.0
+        sw = 150 * k                      # espessura do traco
+        x0, tip, hx = x + 20 * k, x + 1106 * k - sw * 0.7, x + 660 * k
+        cy, hh = b - 565 * k, 330 * k
+        s.svg.append(f'<path d="M{n(x0)} {n(cy)}H{n(tip)}M{n(hx)} {n(cy - hh)}L{n(tip)} {n(cy)}L{n(hx)} {n(cy + hh)}" '
+                     f'fill="none" stroke="{color}" stroke-width="{n(sw)}" stroke-linejoin="miter" stroke-linecap="butt"/>')
     def html(s):
         body = ''.join(''.join(s.layers[i]) for i in range(5))
         svg = f'<svg class="t" viewBox="0 0 {PW} {PH}" xmlns="http://www.w3.org/2000/svg">{"".join(s.svg)}</svg>'
@@ -91,6 +98,8 @@ def draw_static(P, el, skip_text=lambda t: False, skip_circle=lambda c: False, s
     # ✓ estatico: desenhado sobre o circulo que o contem
     for t in el['texts']:
         if skip_text(t): continue
+        if t['f'] == 'consolas' and t['t'] == '→':
+            P.arrow(t['x'], t['b'], t['s'], t['c']); continue
         if t['f'] == 'segoe' and t['t'] == '✓':
             cx = t['x'] + 2.5
             for c in el['circles']:

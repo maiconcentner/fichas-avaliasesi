@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fichas AvaliaSESI</title>
+<meta name="description" content="Gera as fichas de estudos do AvaliaSESI-SP (Mapa de Estudos) no modelo da coordenação, direto no navegador.">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="topo">
+  <div class="topo-in">
+    <div>
+      <p class="sobre">AvaliaSESI-SP · Mapa de Estudos</p>
+      <h1>Gerador de fichas de estudos</h1>
+    </div>
+    <p class="privado" title="Nada é enviado para a internet. Os dados ficam salvos só neste navegador.">
+      <span aria-hidden="true">●</span> Os dados dos alunos ficam só neste computador
+    </p>
+  </div>
+</header>
+
+<main class="layout">
+  <section class="col-editor">
+    <!-- 1. Lote -->
+    <section class="cartao" aria-labelledby="t-lote">
+      <h2 id="t-lote"><span class="passo">1</span> Dados da turma</h2>
+      <p class="dica">Valem para todos os alunos desta lista.</p>
+      <div class="campos">
+        <label>Ano
+          <select id="ano"></select>
+        </label>
+        <label>Turma
+          <input id="turma" list="turmas" maxlength="4" autocomplete="off">
+          <datalist id="turmas"><option>A</option><option>B</option><option>C</option><option>D</option></datalist>
+        </label>
+        <fieldset class="seg">
+          <legend>Componentes</legend>
+          <label><input type="radio" name="comp" value="ambos"><span>LP e MAT</span></label>
+          <label><input type="radio" name="comp" value="LP"><span>Só LP</span></label>
+          <label><input type="radio" name="comp" value="MAT"><span>Só MAT</span></label>
+        </fieldset>
+      </div>
+      <details class="mais">
+        <summary>Mais opções</summary>
+        <div class="campos">
+          <label class="largo">Escola (aparece no cabeçalho da ficha)
+            <input id="escola" autocomplete="off">
+          </label>
+          <label class="check"><input type="checkbox" id="turmaPorAluno"> Alunos de turmas diferentes (mostra a coluna Turma)</label>
+        </div>
+      </details>
+    </section>
+
+    <!-- 2. Alunos -->
+    <section class="cartao" aria-labelledby="t-alunos">
+      <h2 id="t-alunos"><span class="passo">2</span> Alunos e resultados</h2>
+      <div class="barra">
+        <button type="button" id="bt-colar">Colar lista de nomes</button>
+        <button type="button" id="bt-add">+ Aluno</button>
+        <span class="sep"></span>
+        <button type="button" id="bt-modelo" title="Já vem com os conteúdos do ano e com os alunos que estiverem na lista">Baixar planilha</button>
+        <button type="button" id="bt-carregar">Carregar planilha</button>
+        <input type="file" id="arq-planilha" accept=".xlsx" hidden>
+      </div>
+      <p class="legenda">
+        <span class="s s-ok">✓</span> Você domina <kbd>1</kbd>
+        <span class="s s-quase">~</span> Quase lá <kbd>2</kbd>
+        <span class="s s-comece">!</span> Comece por aqui <kbd>3</kbd>
+        <span class="leg-dica">Clique na célula ou use o teclado. Clique no número do conteúdo para preencher a coluna toda. Dá para colar um bloco copiado do Excel.</span>
+      </p>
+      <div class="grade-caixa" id="grade-caixa">
+        <table class="grade" id="grade"></table>
+        <div class="vazio" id="vazio">
+          <p><strong>Nenhum aluno ainda.</strong></p>
+          <p>Cole a lista de nomes, adicione um por um ou carregue uma planilha preenchida.</p>
+          <p><button type="button" class="link" id="bt-exemplo">Ver com 3 alunos de exemplo</button></p>
+        </div>
+      </div>
+      <details class="conteudos">
+        <summary>Ver os conteúdos do ano</summary>
+        <div id="lista-conteudos"></div>
+      </details>
+    </section>
+
+    <!-- 3. Gerar -->
+    <section class="cartao" aria-labelledby="t-gerar">
+      <h2 id="t-gerar"><span class="passo">3</span> Conferir e gerar</h2>
+      <div id="conferencia" class="conferencia" aria-live="polite"></div>
+      <div class="barra acoes">
+        <button type="button" class="principal" id="bt-pdf">Gerar PDF de todos</button>
+        <button type="button" id="bt-pdf-um">PDF só do aluno selecionado</button>
+      </div>
+      <p class="dica">O PDF abre na janela de impressão: escolha <strong>Salvar como PDF</strong>. Use Chrome ou Edge para a ficha sair idêntica à da coordenação.</p>
+      <div class="barra secundaria">
+        <button type="button" id="bt-salvar">Salvar projeto</button>
+        <button type="button" id="bt-abrir">Abrir projeto</button>
+        <input type="file" id="arq-projeto" accept=".json,application/json" hidden>
+        <span class="sep"></span>
+        <button type="button" class="perigo" id="bt-limpar">Começar do zero</button>
+      </div>
+      <p class="dica" id="autosave">Tudo é salvo automaticamente neste navegador.</p>
+    </section>
+  </section>
+
+  <aside class="col-previa" aria-labelledby="t-previa">
+    <div class="previa-cab">
+      <h2 id="t-previa">Prévia</h2>
+      <select id="previa-aluno" aria-label="Aluno da prévia"></select>
+      <button type="button" id="bt-ampliar" title="Ver a ficha em tamanho maior">Ampliar</button>
+    </div>
+    <p class="previa-aviso" id="previa-aviso" hidden></p>
+    <div class="previa-caixa" id="previa-caixa">
+      <iframe id="previa" title="Prévia da ficha" tabindex="-1"></iframe>
+    </div>
+  </aside>
+</main>
+
+<div class="menu" id="menu" role="menu" hidden></div>
+
+<dialog id="dlg-colar">
+  <form method="dialog">
+    <h3>Colar lista de nomes</h3>
+    <p class="dica">Uma linha por aluno. Pode colar direto do Excel ou do diário: nome e RM na mesma linha (o RM é reconhecido por ser número).</p>
+    <textarea id="txt-colar" rows="10" placeholder="Ana Beatriz Souza	4521&#10;Bruno Henrique Lima	4522&#10;..."></textarea>
+    <div class="barra fim">
+      <button value="cancelar">Cancelar</button>
+      <button value="ok" class="principal">Adicionar</button>
+    </div>
+  </form>
+</dialog>
+
+<dialog id="dlg-previa" class="grande">
+  <form method="dialog">
+    <div class="previa-cab"><h3>Prévia da ficha</h3><button value="fechar">Fechar</button></div>
+    <div class="previa-caixa" id="previa-grande-caixa">
+      <iframe id="previa-grande" title="Prévia ampliada da ficha" tabindex="-1"></iframe>
+    </div>
+  </form>
+</dialog>
+
+<dialog id="dlg-escolha">
+  <form method="dialog">
+    <h3 id="esc-titulo"></h3>
+    <p id="esc-texto"></p>
+    <div class="barra fim" id="esc-botoes"></div>
+  </form>
+</dialog>
+
+<div class="aviso-flutuante" id="toast" role="status" hidden></div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

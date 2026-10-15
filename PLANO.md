@@ -155,8 +155,13 @@ validado contra os 884 oficiais, HTML igual garante PDF igual.
 - [x] Código, dados, fontes e modelos no repositório, organizados em `ferramenta/` e `modelos_fichas/`.
 - [x] Dados reais removidos: `alunos_oficiais.json` fora do repositório; `templates.json` anonimizado
   (saída idêntica nos 10 anos, completa, só LP e só MAT).
-- [ ] Trocar `Consolas-arrow.ttf` (fonte da Microsoft, uma seta só) por uma seta livre antes de publicar.
-- [ ] Fase 1.
+- [x] Seta da Consolas trocada por uma seta desenhada em SVG (no Python e no site); a fonte saiu do repositório.
+- [x] Fase 1: `js/motor.js` gera HTML idêntico ao Python (`npm test`: 430 casos, todos os anos, parciais,
+  nomes com acento e símbolos).
+- [x] Fase 2: página com dados da turma, grade de alunos (teclado, colar do Excel, preencher coluna/linha),
+  conferência, prévia ao vivo, PDF pela impressão, planilha para baixar e carregar (também lê a planilha
+  antiga do Python), projeto .json e salvamento automático no navegador.
+- [ ] Fase 3: Word (.docx) no modelo da coordenação, zip com um PDF por aluno.
 
 Observações do código que mudam o plano:
 - O cabeçalho da ficha tem a escola fixa ("CE 026 - Jaú"). Os campos que variam são nome, ano,

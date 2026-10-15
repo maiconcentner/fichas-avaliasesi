@@ -13,7 +13,7 @@ diferença de pixels abaixo de 1% (só suavização de bordas).
 - `data/alunos_oficiais.json`: os 884 alunos oficiais (usado para avisar se o aluno já consta). **Não fica no GitHub**
   (dados reais); existe só na pasta do Mac. Sem ele a ferramenta gera normalmente, só não faz esse aviso.
 - `data/docx_modelo/`: .docx e ícones da coordenação.
-- `fonts/`: Bricolage Grotesque, Inter, IBM Plex Mono, Consolas.
+- `fonts/`: Bricolage Grotesque, Inter, IBM Plex Mono. (A seta "→" que usava Consolas agora é desenhada em SVG.)
 - `verify.py`, `extract_*.py`, `fit_templates.py`, `build_year_data.py`, `calibrate.py`, `refit.py`: reconstrução e testes.
 
 ## Uso (precisa de Python com playwright + chromium, openpyxl e python-docx)

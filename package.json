@@ -1,0 +1,8 @@
+{
+  "name": "fichas-avaliasesi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "python3 tests/paridade.py /tmp/casos_paridade.json && node tests/paridade.mjs /tmp/casos_paridade.json"
+  }
+}
