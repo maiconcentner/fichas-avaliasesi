@@ -156,7 +156,7 @@ validado contra os 884 oficiais, HTML igual garante PDF igual.
 - [x] Dados reais removidos: `alunos_oficiais.json` fora do repositório; `templates.json` anonimizado
   (saída idêntica nos 10 anos, completa, só LP e só MAT).
 - [x] Seta da Consolas trocada por uma seta desenhada em SVG (no Python e no site); a fonte saiu do repositório.
-- [x] Fase 1: `js/motor.js` gera HTML idêntico ao Python (`npm test`: 430 casos, todos os anos, parciais,
+- [x] Fase 1: `js/motor.js` gera HTML idêntico ao Python (`npm test`: 330 casos, todos os anos, parciais,
   nomes com acento e símbolos).
 - [x] Fase 2: página com dados da turma, grade de alunos (teclado, colar do Excel, preencher coluna/linha),
   conferência, prévia ao vivo, PDF pela impressão, planilha para baixar e carregar (também lê a planilha

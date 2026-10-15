@@ -36,7 +36,7 @@ Tudo fica salvo só no navegador; *Salvar projeto* guarda um arquivo para contin
 
 ## Teste
 
-    npm test     # gera 430 fichas no Python e no JavaScript e exige HTML idêntico
+    npm test     # gera 330 fichas no Python e no JavaScript e exige HTML idêntico
 
 Precisa de Python 3 e Node. Não usa dados reais.
 
