@@ -105,11 +105,16 @@ Depois do upload, tudo cai na grade do passo 3 para conferir antes de gerar.
 
 ## 5. Arquivos que vêm da pasta `ferramenta_fichas`
 
+O motor Python fica em `ferramenta/`, com a mesma estrutura da pasta do Mac. A página lê
+direto `ferramenta/data/` e `ferramenta/fonts/`, sem copiar.
+
 | Hoje (Python) | No site |
 |---|---|
-| `data/dados_por_ano.json` | `data/dados_por_ano.json` (mesmo arquivo, lido pela página) |
-| `render.py` (HTML da ficha) | `js/render.js` (mesmo HTML/CSS, portado) |
-| `fonts/` | `fonts/` (servidas pela página; conferir licença antes de publicar) |
+| `data/dados_por_ano.json` | lido pela página (conteúdos, dicas, rotina) |
+| `data/templates.json` | lido pela página (layout de cada ano, 1,2 MB) |
+| `data/baseline_offsets.json` | lido pela página (ajuste fino das fontes) |
+| `render.py` + `gen.py` (HTML da ficha) | `js/render.js` (portado linha a linha; mesmo HTML/CSS) |
+| `fonts/` | servidas pela página (4 são OFL; a seta da Consolas precisa ser trocada) |
 | `to_pdf.py` | impressão do navegador (`css/print.css`) |
 | `fichas.py conferir` | `js/conferir.js` |
 | `fichas.py gerar` (xlsx) | `js/planilha.js` com ExcelJS |
@@ -119,15 +124,21 @@ Depois do upload, tudo cai na grade do passo 3 para conferir antes de gerar.
 Estrutura do repositório:
 
 ```
-index.html
-css/  app.css  ficha.css  print.css
+index.html                 página (fase 1 em diante)
+css/  app.css  print.css
 js/   app.js  estado.js  render.js  conferir.js  planilha.js  docx.js
-data/ dados_por_ano.json  docx_modelo/
-fonts/
 vendor/ exceljs.min.js  jszip.min.js
-tests/  (comparação com a saída do Python, rodada só localmente)
+tests/                     compara o HTML do site com o do Python
+ferramenta/                motor Python (referência e uso no Mac)
+  data/  dados_por_ano.json  templates.json  baseline_offsets.json  docx_modelo/
+  fonts/
+modelos_fichas/            modelo por ano (PDF/DOCX) e planilha de entrada
 .github/workflows/pages.yml
 ```
+
+Teste de fidelidade sem dados reais: para cada ano, gerar a ficha de um aluno fictício
+(completa, só LP, só MAT) no Python e no site e exigir HTML idêntico. Como o Python já foi
+validado contra os 884 oficiais, HTML igual garante PDF igual.
 
 ## 6. Fases
 
@@ -139,9 +150,16 @@ tests/  (comparação com a saída do Python, rodada só localmente)
 3. **Extras**: .docx no modelo da coordenação, zip com um PDF por aluno, importar direto a
    planilha exportada do AvaliaSESI (se o formato for estável).
 
-## 7. O que preciso para começar
+## 7. Situação
 
-- Subir para este repositório o código e os dados da `ferramenta_fichas`
-  (`fichas.py, gen.py, render.py, to_pdf.py, docx_ficha.py, data/, fonts/, LEIA-ME.md`) e o
-  `modelos_fichas/modelo_planilha_entrada.xlsx`. **Sem** `CE_026_Jau/` e sem nada com aluno real.
-- Um modelo de ficha em PDF por ano (`modelos_fichas/`) para referência, se não tiver nome de aluno.
+- [x] Código, dados, fontes e modelos no repositório, organizados em `ferramenta/` e `modelos_fichas/`.
+- [x] Dados reais removidos: `alunos_oficiais.json` fora do repositório; `templates.json` anonimizado
+  (saída idêntica nos 10 anos, completa, só LP e só MAT).
+- [ ] Trocar `Consolas-arrow.ttf` (fonte da Microsoft, uma seta só) por uma seta livre antes de publicar.
+- [ ] Fase 1.
+
+Observações do código que mudam o plano:
+- O cabeçalho da ficha tem a escola fixa ("CE 026 - Jaú"). Os campos que variam são nome, ano,
+  turma e RM. Escola fica como configuração (padrão CE 026 Jaú).
+- Anos com modelo: 3º a 9º EF e 1º a 3º EM. Ano novo ou lista de conteúdos diferente exige
+  reconstruir `templates.json` no Mac com o relatório oficial.

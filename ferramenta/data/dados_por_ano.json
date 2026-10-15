@@ -1,0 +1,1127 @@
+{
+ "1º EM": {
+  "descritores": {
+   "LP": [
+    "Comparar como diferentes textos jornalísticos apresentam os mesmos fatos.",
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar a função que cada palavra ou expressão desempenha na oração.",
+    "Identificar características das pessoas e da sociedade em obras literárias.",
+    "Identificar características de um movimento literário em produções.",
+    "Identificar características e formas de linguagem de textos jornalísticos-midiáticos.",
+    "Identificar o sentido figurado ou literal das palavras considerando o seu contexto de uso.",
+    "Identificar o tema, a finalidade e/ou o público-alvo de diferentes gêneros textuais.",
+    "Identificar para que servem os sinais de pontuação no texto.",
+    "Identificar relações intertextuais e/ou interdiscursivas em textos literários.",
+    "Relacionar partes do texto por meio de palavras que retomam e conectam informações."
+   ],
+   "MAT": [
+    "Calcular a área de figuras planas.",
+    "Calcular a área de polígonos inscritos ou circunscritos.",
+    "Calcular área de círculo, coroa ou setor circular.",
+    "Calcular o perímetro de figuras planas.",
+    "Determinar termos, razão, termo geral ou a soma dos n primeiros termos de uma progressão aritmética.",
+    "Identificar as principais características de funções logarítmicas a partir de suas representações algébrica ou geométrica.",
+    "Reconhecer os gráficos de funções exponenciais a partir de sua lei de formação, e vice- versa.",
+    "Resolver equações exponenciais.",
+    "Resolver problemas que envolvam as propriedades operatórias dos logaritmos.",
+    "Resolver problemas que envolvam progressões aritméticas.",
+    "Resolver problemas que envolvam progressões geométricas."
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com seu(sua) professor(a).",
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica."
+   ],
+   [
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver atividades.",
+    "Não se preocupe se não entender tudo de uma vez. Retome os conteúdos sempre que precisar e avance aos poucos.",
+    "Perceba suas conquistas e valorize aquilo que você já consegue fazer.",
+    "A Leia pode ser sua aliada nos momentos de estudo. Use-a para pesquisar conteúdos, esclarecer dúvidas e explorar novas atividades, exercícios e materiais de apoio na PEP."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Estratégias para estudar Língua Portuguesa",
+    "colunas": [
+     [
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto.",
+      "Compare diferentes textos, autores e obras e observe como apresentam informações, posicionamentos e sentidos.",
+      "Na literatura, relacione os textos aos contextos histórico, social e cultural em que foram produzidos e analise como obras e discursos dialogam entre si."
+     ],
+     [
+      "Analise os efeitos de sentido. Observe recursos como ironia, humor, crítica, sentido figurado e diferentes formas de construir a voz de quem fala ou escreve. Observe como essas escolhas influenciam a interpretação e revelam posicionamentos.",
+      "Ao produzir um texto, considere o propósito comunicativo, o leitor e o gênero. Organize as ideias e analise as relações entre elas.",
+      "Em pesquisas, selecione, compare e verifique informações de diferentes fontes, estabelecendo relações entre os dados."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Estratégias para estudar Matemática",
+    "colunas": [
+     [
+      "Procure compreender o significado dos conceitos, das fórmulas e dos procedimentos utilizados. Pergunte-se por que determinada estratégia funciona e se existem outras formas de resolver a situação.",
+      "Explique o significado do resultado no contexto da questão, justificando sua resposta com base nos procedimentos utilizados.",
+      "Revise suas respostas e verifique a coerência dos resultados em relação ao contexto do problema. Refaça cálculos, confira unidades e valide seus argumentos sempre que necessário.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Organize dados de maneira que facilite sua compreensão. Utilize anotações, esquemas, tabelas, gráficos, desenhos ou cálculos sempre que necessário."
+     ],
+     [
+      "Compare informações apresentadas em diferentes formas de representação. Observe relações, padrões e regularidades que possam ajudar na construção da resposta.",
+      "Antes de realizar cálculos, planeje uma estratégia de resolução. Retome exemplos semelhantes, escolha uma possibilidade, registre cada etapa e teste sua estratégia. Utilize calculadora ou outros recursos digitais quando forem úteis para investigar e conferir resultados.",
+      "Analise os resultados obtidos. Faça estimativas, compare valores e verifique se as informações, medidas e unidades foram utilizadas corretamente.",
+      "Quando encontrar dificuldades ou cometer erros, revise seu percurso, identifique em que etapa eles ocorreram e utilize essa análise para aperfeiçoar suas estratégias de resolução."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Estratégias para estudar Língua Portuguesa",
+    "colunas": [
+     [
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto.",
+      "Compare diferentes textos, autores e obras e observe como apresentam informações, posicionamentos e sentidos.",
+      "Na literatura, relacione os textos aos contextos histórico, social e cultural em que foram produzidos e analise como obras e discursos dialogam entre si."
+     ],
+     [
+      "Analise os efeitos de sentido. Observe recursos como ironia, humor, crítica, sentido figurado e diferentes formas de construir a voz de quem fala ou escreve. Observe como essas escolhas influenciam a interpretação e revelam posicionamentos.",
+      "Ao produzir um texto, considere o propósito comunicativo, o leitor e o gênero. Organize as ideias e analise as relações entre elas.",
+      "Em pesquisas, selecione, compare e verifique informações de diferentes fontes, estabelecendo relações entre os dados."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Estratégias para estudar Matemática",
+    "colunas": [
+     [
+      "Procure compreender o significado dos conceitos, das fórmulas e dos procedimentos utilizados. Pergunte-se por que determinada estratégia funciona e se existem outras formas de resolver a situação.",
+      "Explique o significado do resultado no contexto da questão, justificando sua resposta com base nos procedimentos utilizados.",
+      "Revise suas respostas e verifique a coerência dos resultados em relação ao contexto do problema. Refaça cálculos, confira unidades e valide seus argumentos sempre que necessário.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Organize dados de maneira que facilite sua compreensão. Utilize anotações, esquemas, tabelas, gráficos, desenhos ou cálculos sempre que necessário."
+     ],
+     [
+      "Compare informações apresentadas em diferentes formas de representação. Observe relações, padrões e regularidades que possam ajudar na construção da resposta.",
+      "Antes de realizar cálculos, planeje uma estratégia de resolução. Retome exemplos semelhantes, escolha uma possibilidade, registre cada etapa e teste sua estratégia. Utilize calculadora ou outros recursos digitais quando forem úteis para investigar e conferir resultados.",
+      "Analise os resultados obtidos. Faça estimativas, compare valores e verifique se as informações, medidas e unidades foram utilizadas corretamente.",
+      "Quando encontrar dificuldades ou cometer erros, revise seu percurso, identifique em que etapa eles ocorreram e utilize essa análise para aperfeiçoar suas estratégias de resolução."
+     ]
+    ]
+   }
+  },
+  "segmento": "EM"
+ },
+ "2º EM": {
+  "descritores": {
+   "LP": [
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar características de um movimento literário em produções.",
+    "Identificar características e formas de linguagem de textos de estudo e pesquisa.",
+    "Identificar ironia/humor/crítica no texto e compreender os efeitos que produzem.",
+    "Identificar o sentido figurado ou literal das palavras considerando o seu contexto de uso.",
+    "Identificar o tema, a finalidade e/ou o público-alvo de diferentes gêneros textuais.",
+    "Identificar relações intertextuais e/ou interdiscursivas em textos literários.",
+    "Identificar relações lógico-discursivas entre orações em períodos compostos.",
+    "Reconhecer costumes, ideias e valores presentes em diferentes obras artísticas e literárias.",
+    "Relacionar partes do texto por meio de palavras que retomam e conectam informações.",
+    "Relacionar textos escritos e textos que usam imagens."
+   ],
+   "MAT": [
+    "Associar situações de juros compostos à função exponencial.",
+    "Associar situações de juros simples à função polinomial de primeiro grau.",
+    "Determinar medidas de tendência central ou dispersão de uma distribuição de dados.",
+    "Identificar a expressão algébrica que representa uma progressão aritmética ou geométrica.",
+    "Interpretar informações apresentadas em tabelas, gráficos, infográficos ou pesquisas estatísticas, a partir de dados obtidos por amostra estatística.",
+    "Relacionar progressão aritmética com a representação gráfica ou algébrica de uma função polinomial do primeiro grau.",
+    "Relacionar progressão geométrica com a representação gráfica ou algébrica de uma função exponencial.",
+    "Resolver problemas que envolvam aumentos ou descontos sucessivos.",
+    "Resolver problemas que envolvam juros compostos.",
+    "Resolver problemas que envolvam juros simples.",
+    "Resolver problemas que envolvam medidas de tendência central ou dispersão de uma distribuição de dados."
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com seu(sua) professor(a).",
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica."
+   ],
+   [
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver atividades.",
+    "Não se preocupe se não entender tudo de uma vez. Retome os conteúdos sempre que precisar e avance aos poucos.",
+    "Perceba suas conquistas e valorize aquilo que você já consegue fazer.",
+    "A Leia pode ser sua aliada nos momentos de estudo. Use-a para pesquisar conteúdos, esclarecer dúvidas e explorar novas atividades, exercícios e materiais de apoio na PEP."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Estratégias para estudar Língua Portuguesa",
+    "colunas": [
+     [
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto.",
+      "Compare diferentes textos, autores e obras e observe como apresentam informações, posicionamentos e sentidos.",
+      "Na literatura, relacione os textos aos contextos histórico, social e cultural em que foram produzidos e analise como obras e discursos dialogam entre si."
+     ],
+     [
+      "Analise os efeitos de sentido. Observe recursos como ironia, humor, crítica, sentido figurado e diferentes formas de construir a voz de quem fala ou escreve. Observe como essas escolhas influenciam a interpretação e revelam posicionamentos.",
+      "Ao produzir um texto, considere o propósito comunicativo, o leitor e o gênero. Organize as ideias e analise as relações entre elas.",
+      "Em pesquisas, selecione, compare e verifique informações de diferentes fontes, estabelecendo relações entre os dados."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Estratégias para estudar Matemática",
+    "colunas": [
+     [
+      "Procure compreender o significado dos conceitos, das fórmulas e dos procedimentos utilizados. Pergunte-se por que determinada estratégia funciona e se existem outras formas de resolver a situação.",
+      "Explique o significado do resultado no contexto da questão, justificando sua resposta com base nos procedimentos utilizados.",
+      "Revise suas respostas e verifique a coerência dos resultados em relação ao contexto do problema. Refaça cálculos, confira unidades e valide seus argumentos sempre que necessário.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Organize dados de maneira que facilite sua compreensão. Utilize anotações, esquemas, tabelas,"
+     ],
+     [
+      "Compare informações apresentadas em diferentes formas de representação. Observe relações, padrões e regularidades que possam ajudar na construção da resposta.",
+      "Antes de realizar cálculos, planeje uma estratégia de resolução. Retome exemplos semelhantes, escolha uma possibilidade, registre cada etapa e teste sua estratégia. Utilize calculadora ou outros recursos digitais quando forem úteis para investigar e conferir resultados.",
+      "Analise os resultados obtidos. Faça estimativas, compare valores e verifique se as informações, medidas e unidades foram utilizadas corretamente.",
+      "Quando encontrar dificuldades ou cometer erros, revise seu percurso, identifique em que etapa eles ocorreram e utilize essa análise para aperfeiçoar suas estratégias de resolução."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Estratégias para estudar Língua Portuguesa",
+    "colunas": [
+     [
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto.",
+      "Compare diferentes textos, autores e obras e observe como apresentam informações, posicionamentos e sentidos.",
+      "Na literatura, relacione os textos aos contextos histórico, social e cultural em que foram produzidos e analise como obras e discursos dialogam entre si."
+     ],
+     [
+      "Analise os efeitos de sentido. Observe recursos como ironia, humor, crítica, sentido figurado e diferentes formas de construir a voz de quem fala ou escreve. Observe como essas escolhas influenciam a interpretação e revelam posicionamentos.",
+      "Ao produzir um texto, considere o propósito comunicativo, o leitor e o gênero. Organize as ideias e analise as relações entre elas.",
+      "Em pesquisas, selecione, compare e verifique informações de diferentes fontes, estabelecendo relações entre os dados."
+     ]
+    ]
+   }
+  },
+  "segmento": "EM"
+ },
+ "3º EF": {
+  "descritores": {
+   "LP": [
+    "Comparar textos de diferentes gêneros sobre o mesmo tema.",
+    "Descobrir qual é o objetivo do texto e o seu público-alvo.",
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar as características de diferentes gêneros textuais.",
+    "Identificar o público-alvo de textos de diferentes gêneros.",
+    "Identificar o tema de textos de diferentes gêneros.",
+    "Identificar padrões ortográficos na escrita das palavras.",
+    "Identificar para que servem os sinais de pontuação no texto.",
+    "Localizar informações explícitas em textos de diferentes gêneros.",
+    "Relacionar informações presentes em gráficos/tabelas/imagens com informações expressas no texto.",
+    "Relacionar textos escritos e textos que usam imagens."
+   ],
+   "MAT": [
+    "Converter unidades de medidas de comprimento",
+    "Converter unidades de medidas de massa",
+    "Decomposição de números naturais",
+    "Identificar características dos polígonos",
+    "Identificar figuras planas nas faces dos sólidos geométricos",
+    "Identificar números que faltam nas sequências",
+    "Identificar regularidades em sequências",
+    "Relacionar sólido geométrico à sua planificação",
+    "Utilizar adição e subtração em problemas"
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com a professora."
+   ],
+   [
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica.",
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver exercícios.",
+    "Observe suas conquistas e valorize aquilo que você já consegue fazer. Se tiver dúvidas, peça ajuda à professora, aos colegas ou à sua família."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Reserve momentos ao longo da semana para ler diferentes tipos de textos com atenção. Se necessário, faça uma segunda leitura para compreender melhor, marcando partes que você pode não ter compreendido para pesquisar.",
+      "Identifique o assunto principal, as informações mais importantes e o que o texto quer comunicar."
+     ],
+     [
+      "Compare textos que falam sobre o mesmo assunto e observe o que eles têm de parecido e de diferente.",
+      "Observe como títulos, imagens, gráficos, tabelas e outros elementos ajudam a compreender o texto.",
+      "Nas histórias, identifique os personagens, o lugar, o tempo, o problema da história e como ela termina.",
+      "Revise conteúdos de gramática e ortografia por meio de exemplos e exercícios."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Resolva exercícios e problemas com atenção. Identifique o que precisa descobrir, destaque as informações importantes e estime o resultado antes de calcular.",
+      "Experimente diferentes estratégias de resolução. Use desenhos, tabelas, materiais, recursos digitais ou cálculos e compare os resultados.",
+      "Explique como pensou para chegar à resposta. Mostrar o caminho utilizado é tão importante quanto encontrar o resultado.",
+      "Observe, compare e explore formas geométricas no cotidiano. Utilize desenhos, dobraduras e materiais diversos para investigar e fazer descobertas."
+     ],
+     [
+      "Procure compreender o significado dos conceitos, dos procedimentos e das estratégias que utiliza. Pergunte- se: por que essa resolução funciona? Existe outra maneira de resolver?",
+      "Aprenda com os erros. Identifique em que etapa eles ocorreram, refaça o percurso e teste novas estratégias. Conhecer outras formas de resolver problemas amplia seu conhecimento matemático.",
+      "Revise os conteúdos sempre que necessário. Consulte seu material de estudo, anotações e registros para esclarecer dúvidas."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Reserve momentos ao longo da semana para ler diferentes tipos de textos com atenção. Se necessário, faça uma segunda leitura para compreender melhor, marcando partes que você pode não ter compreendido para pesquisar.",
+      "Identifique o assunto principal, as informações mais importantes e o que o texto quer comunicar."
+     ],
+     [
+      "Compare textos que falam sobre o mesmo assunto e observe o que eles têm de parecido e de diferente.",
+      "Observe como títulos, imagens, gráficos, tabelas e outros elementos ajudam a compreender o texto.",
+      "Nas histórias, identifique os personagens, o lugar, o tempo, o problema da história e como ela termina.",
+      "Revise conteúdos de gramática e ortografia por meio de exemplos e exercícios."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Resolva exercícios e problemas com atenção. Identifique o que precisa descobrir, destaque as informações importantes e estime o resultado antes de calcular.",
+      "Experimente diferentes estratégias de resolução. Use desenhos, tabelas, materiais, recursos digitais ou cálculos e compare os resultados.",
+      "Explique como pensou para chegar à resposta. Mostrar o caminho utilizado é tão importante quanto encontrar o resultado.",
+      "Observe, compare e explore formas geométricas no cotidiano. Utilize desenhos, dobraduras e materiais diversos para investigar e fazer descobertas."
+     ],
+     [
+      "Procure compreender o significado dos conceitos, dos procedimentos e das estratégias que utiliza. Pergunte- se: por que essa resolução funciona? Existe outra maneira de resolver?",
+      "Aprenda com os erros. Identifique em que etapa eles ocorreram, refaça o percurso e teste novas estratégias. Conhecer outras formas de resolver problemas amplia seu conhecimento matemático.",
+      "Revise os conteúdos sempre que necessário. Consulte seu material de estudo, anotações e registros para esclarecer dúvidas."
+     ]
+    ]
+   }
+  },
+  "segmento": "EF1"
+ },
+ "3º EM": {
+  "descritores": {
+   "LP": [
+    "Analisar a regência verbal e/ou nominal (tipo de ligação de uma palavra a seu complemento) nos textos.",
+    "Distinguir o que é fato e o que é opinião em um texto.",
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar características das pessoas e da sociedade em obras literárias.",
+    "Identificar características de textos da vida pública",
+    "Identificar o tema, a finalidade e/ou o público-alvo de diferentes gêneros textuais.",
+    "Identificar relações intertextuais e/ou interdiscursivas em textos literários.",
+    "Reconhecer as marcas linguísticas que mostram o tipo de citação, discurso ou referência utilizado em diferentes gêneros textuais.",
+    "Reconhecer elementos narrativos em diferentes gêneros (tempo, espaço, personagens, narrador, enredo).",
+    "Relacionar informações em textos verbais, com imagens e digitais.",
+    "Relacionar textos escritos e textos que usam imagens."
+   ],
+   "MAT": [
+    "Calcular o determinante de matrizes de ordem 2x2 e 3x3.",
+    "Converter medidas em graus para radianos, e vice-versa.",
+    "Determinar as medidas do seno ou cosseno de ângulos a partir da relação fundamental da trigonometria.",
+    "Determinar uma matriz a partir de sua lei de formação.",
+    "Determinar valores de seno, cosseno ou tangente de arcos simétricos a 30°, 45° ou 60°.",
+    "Efetuar a adição ou a subtração de matrizes.",
+    "Reconhecer gráfico das funções trigonométricas e suas inversas.",
+    "Resolver equações, inequações ou expressões trigonométricas.",
+    "Resolver problemas que envolvam a função seno, cosseno ou tangente.",
+    "Resolver problemas que envolvam o cálculo do comprimento de circunferências e arcos.",
+    "Resolver problemas que envolvam sistemas lineares de ordem 2x2 ou 3x3."
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com seu(sua) professor(a).",
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica."
+   ],
+   [
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver atividades.",
+    "Não se preocupe se não entender tudo de uma vez. Retome os conteúdos sempre que precisar e avance aos poucos.",
+    "Perceba suas conquistas e valorize aquilo que você já consegue fazer.",
+    "A Leia pode ser sua aliada nos momentos de estudo. Use-a para pesquisar conteúdos, esclarecer dúvidas e explorar novas atividades, exercícios e materiais de apoio na PEP."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Estratégias para estudar Língua Portuguesa",
+    "colunas": [
+     [
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto.",
+      "Compare diferentes textos, autores e obras e observe como apresentam informações, posicionamentos e sentidos.",
+      "Na literatura, relacione os textos aos contextos histórico, social e cultural em que foram produzidos e analise como obras e discursos dialogam entre si."
+     ],
+     [
+      "Analise os efeitos de sentido. Observe recursos como ironia, humor, crítica, sentido figurado e diferentes formas de construir a voz de quem fala ou escreve. Observe como essas escolhas influenciam a interpretação e revelam posicionamentos.",
+      "Ao produzir um texto, considere o propósito comunicativo, o leitor e o gênero. Organize as ideias e analise as relações entre elas.",
+      "Em pesquisas, selecione, compare e verifique informações de diferentes fontes, estabelecendo relações entre os dados."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Estratégias para estudar Matemática",
+    "colunas": [
+     [
+      "Procure compreender o significado dos conceitos, das fórmulas e dos procedimentos utilizados. Pergunte-se por que determinada estratégia funciona e se existem outras formas de resolver a situação.",
+      "Explique o significado do resultado no contexto da questão, justificando sua resposta com base nos procedimentos utilizados.",
+      "Revise suas respostas e verifique a coerência dos resultados em relação ao contexto do problema. Refaça cálculos, confira unidades e valide seus argumentos sempre que necessário.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Organize dados de maneira que facilite sua compreensão. Utilize anotações, esquemas, tabelas, gráficos, desenhos ou cálculos sempre que necessário."
+     ],
+     [
+      "Compare informações apresentadas em diferentes formas de representação. Observe relações, padrões e regularidades que possam ajudar na construção da resposta.",
+      "Antes de realizar cálculos, planeje uma estratégia de resolução. Retome exemplos semelhantes, escolha uma possibilidade, registre cada etapa e teste sua estratégia. Utilize calculadora ou outros recursos digitais quando forem úteis para investigar e conferir resultados.",
+      "Analise os resultados obtidos. Faça estimativas, compare valores e verifique se as informações, medidas e unidades foram utilizadas corretamente.",
+      "Quando encontrar dificuldades ou cometer erros, revise seu percurso, identifique em que etapa eles ocorreram e utilize essa análise para aperfeiçoar suas estratégias de resolução."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Estratégias para estudar Língua Portuguesa",
+    "colunas": [
+     [
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto.",
+      "Compare diferentes textos, autores e obras e observe como apresentam informações, posicionamentos e sentidos.",
+      "Na literatura, relacione os textos aos contextos histórico, social e cultural em que foram produzidos e analise como obras e discursos dialogam entre si."
+     ],
+     [
+      "Analise os efeitos de sentido. Observe recursos como ironia, humor, crítica, sentido figurado e diferentes formas de construir a voz de quem fala ou escreve. Observe como essas escolhas influenciam a interpretação e revelam posicionamentos.",
+      "Ao produzir um texto, considere o propósito comunicativo, o leitor e o gênero. Organize as ideias e analise as relações entre elas.",
+      "Em pesquisas, selecione, compare e verifique informações de diferentes fontes, estabelecendo relações entre os dados."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Estratégias para estudar Matemática",
+    "colunas": [
+     [
+      "Procure compreender o significado dos conceitos, das fórmulas e dos procedimentos utilizados. Pergunte-se por que determinada estratégia funciona e se existem outras formas de resolver a situação.",
+      "Explique o significado do resultado no contexto da questão, justificando sua resposta com base nos procedimentos utilizados.",
+      "Revise suas respostas e verifique a coerência dos resultados em relação ao contexto do problema. Refaça cálculos, confira unidades e valide seus argumentos sempre que necessário.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Organize dados de maneira que facilite sua compreensão. Utilize anotações, esquemas, tabelas, gráficos, desenhos ou cálculos sempre que necessário."
+     ],
+     [
+      "Compare informações apresentadas em diferentes formas de representação. Observe relações, padrões e regularidades que possam ajudar na construção da resposta.",
+      "Antes de realizar cálculos, planeje uma estratégia de resolução. Retome exemplos semelhantes, escolha uma possibilidade, registre cada etapa e teste sua estratégia. Utilize calculadora ou outros recursos digitais quando forem úteis para investigar e conferir resultados.",
+      "Analise os resultados obtidos. Faça estimativas, compare valores e verifique se as informações, medidas e unidades foram utilizadas corretamente.",
+      "Quando encontrar dificuldades ou cometer erros, revise seu percurso, identifique em que etapa eles ocorreram e utilize essa análise para aperfeiçoar suas estratégias de resolução."
+     ]
+    ]
+   }
+  },
+  "segmento": "EM"
+ },
+ "4º EF": {
+  "descritores": {
+   "LP": [
+    "Descobrir qual é o objetivo do texto e o seu público-alvo.",
+    "Distinguir o que é fato e o que é opinião em um texto.",
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar as características de diferentes gêneros textuais.",
+    "Identificar o tema de textos de diferentes gêneros.",
+    "Identificar o tempo verbal mais usado em um texto (passado, presente ou futuro).",
+    "Identificar padrões ortográficos na escrita das palavras.",
+    "Identificar para que servem os sinais de pontuação no texto."
+   ],
+   "MAT": [
+    "Calcular área e perímetro de figuras",
+    "Classificar polígonos de acordo com as medidas de seus lados e ângulos internos",
+    "Converter unidades de medidas de capacidade",
+    "Converter unidades de medidas de comprimento",
+    "Converter unidades de medidas de massa",
+    "Identificar ângulos em diferentes situações",
+    "Identificar eixo de simetria em objetos e figuras geométricas",
+    "Utilizar multiplicação e divisão em problemas"
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com a professora."
+   ],
+   [
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica.",
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver exercícios.",
+    "Observe suas conquistas e valorize aquilo que você já consegue fazer. Se tiver dúvidas, peça ajuda à professora, aos colegas ou à sua família."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Reserve momentos ao longo da semana para ler diferentes tipos de textos com atenção. Se necessário, faça uma segunda leitura para compreender melhor, marcando partes que você pode não ter compreendido para pesquisar.",
+      "Identifique o assunto principal, as informações mais importantes e o que o texto quer comunicar."
+     ],
+     [
+      "Compare textos que falam sobre o mesmo assunto e observe o que eles têm de parecido e de diferente.",
+      "Observe como títulos, imagens, gráficos, tabelas e outros elementos ajudam a compreender o texto.",
+      "Nas histórias, identifique os personagens, o lugar, o tempo, o problema da história e como ela termina.",
+      "Revise conteúdos de gramática e ortografia por meio de exemplos e exercícios."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Resolva exercícios e problemas com atenção. Identifique o que precisa descobrir, destaque as informações importantes e estime o resultado antes de calcular.",
+      "Experimente diferentes estratégias de resolução. Use desenhos, tabelas, materiais, recursos digitais ou cálculos e compare os resultados.",
+      "Explique como pensou para chegar à resposta. Mostrar o caminho utilizado é tão importante quanto encontrar o resultado.",
+      "Observe, compare e explore formas geométricas no cotidiano. Utilize desenhos, dobraduras e materiais diversos para investigar e fazer descobertas."
+     ],
+     [
+      "Procure compreender o significado dos conceitos, dos procedimentos e das estratégias que utiliza. Pergunte- se: por que essa resolução funciona? Existe outra maneira de resolver?",
+      "Aprenda com os erros. Identifique em que etapa eles ocorreram, refaça o percurso e teste novas estratégias. Conhecer outras formas de resolver problemas amplia seu conhecimento matemático.",
+      "Revise os conteúdos sempre que necessário. Consulte seu material de estudo, anotações e registros para esclarecer dúvidas."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Reserve momentos ao longo da semana para ler diferentes tipos de textos com atenção. Se necessário, faça uma segunda leitura para compreender melhor, marcando partes que você pode não ter compreendido para pesquisar.",
+      "Identifique o assunto principal, as informações mais importantes e o que o texto quer comunicar."
+     ],
+     [
+      "Compare textos que falam sobre o mesmo assunto e observe o que eles têm de parecido e de diferente.",
+      "Observe como títulos, imagens, gráficos, tabelas e outros elementos ajudam a compreender o texto.",
+      "Nas histórias, identifique os personagens, o lugar, o tempo, o problema da história e como ela termina.",
+      "Revise conteúdos de gramática e ortografia por meio de exemplos e exercícios."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Resolva exercícios e problemas com atenção. Identifique o que precisa descobrir, destaque as informações importantes e estime o resultado antes de calcular.",
+      "Experimente diferentes estratégias de resolução. Use desenhos, tabelas, materiais, recursos digitais ou cálculos e compare os resultados.",
+      "Explique como pensou para chegar à resposta. Mostrar o caminho utilizado é tão importante quanto encontrar o resultado.",
+      "Observe, compare e explore formas geométricas no cotidiano. Utilize desenhos, dobraduras e materiais diversos para investigar e fazer descobertas."
+     ],
+     [
+      "Procure compreender o significado dos conceitos, dos procedimentos e das estratégias que utiliza. Pergunte- se: por que essa resolução funciona? Existe outra maneira de resolver?",
+      "Aprenda com os erros. Identifique em que etapa eles ocorreram, refaça o percurso e teste novas estratégias. Conhecer outras formas de resolver problemas amplia seu conhecimento matemático.",
+      "Revise os conteúdos sempre que necessário. Consulte seu material de estudo, anotações e registros para esclarecer dúvidas."
+     ]
+    ]
+   }
+  },
+  "segmento": "EF1"
+ },
+ "5º EF": {
+  "descritores": {
+   "LP": [
+    "Comparar textos de diferentes gêneros sobre o mesmo tema.",
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar as características de diferentes gêneros textuais.",
+    "Identificar o sentido figurado ou literal das palavras considerando o seu contexto de uso.",
+    "Identificar o tema de textos de diferentes gêneros.",
+    "Identificar padrões ortográficos na escrita das palavras.",
+    "Localizar informações explícitas em textos de diferentes gêneros.",
+    "Reconhecer elementos narrativos em diferentes gêneros (tempo, espaço, personagens, narrador, enredo).",
+    "Reconhecer o acontecimento (conflito) que faz a história acontecer (se movimentar)."
+   ],
+   "MAT": [
+    "Analisar semelhanças e diferenças entre sólidos geométricos",
+    "Calcular área e perímetro de figuras",
+    "Calcular horários e duração de eventos",
+    "Converter unidades de medidas de massa",
+    "Identificar ângulos em diferentes situações",
+    "Identificar faces, vértices e arestas dos sólidos geométricos",
+    "Utilizar medidas de temperatura em problemas",
+    "Utilizar multiplicação e divisão em problemas"
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com a professora."
+   ],
+   [
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica.",
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver exercícios.",
+    "Observe suas conquistas e valorize aquilo que você já consegue fazer. Se tiver dúvidas, peça ajuda à professora, aos colegas ou à sua família."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Reserve momentos ao longo da semana para ler diferentes tipos de textos com atenção. Se necessário, faça uma segunda leitura para compreender melhor, marcando partes que você pode não ter compreendido para pesquisar.",
+      "Identifique o assunto principal, as informações mais importantes e o que o texto quer comunicar."
+     ],
+     [
+      "Compare textos que falam sobre o mesmo assunto e observe o que eles têm de parecido e de diferente.",
+      "Observe como títulos, imagens, gráficos, tabelas e outros elementos ajudam a compreender o texto.",
+      "Nas histórias, identifique os personagens, o lugar, o tempo, o problema da história e como ela termina.",
+      "Revise conteúdos de gramática e ortografia por meio de exemplos e exercícios."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Resolva exercícios e problemas com atenção. Identifique o que precisa descobrir, destaque as informações importantes e estime o resultado antes de calcular.",
+      "Experimente diferentes estratégias de resolução. Use desenhos, tabelas, materiais, recursos digitais ou cálculos e compare os resultados.",
+      "Explique como pensou para chegar à resposta. Mostrar o caminho utilizado é tão importante quanto encontrar o resultado.",
+      "Observe, compare e explore formas geométricas no cotidiano. Utilize desenhos, dobraduras e materiais diversos para investigar e fazer descobertas."
+     ],
+     [
+      "Procure compreender o significado dos conceitos, dos procedimentos e das estratégias que utiliza. Pergunte- se: por que essa resolução funciona? Existe outra maneira de resolver?",
+      "Aprenda com os erros. Identifique em que etapa eles ocorreram, refaça o percurso e teste novas estratégias. Conhecer outras formas de resolver problemas amplia seu conhecimento matemático.",
+      "Revise os conteúdos sempre que necessário. Consulte seu material de estudo, anotações e registros para esclarecer dúvidas."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Reserve momentos ao longo da semana para ler diferentes tipos de textos com atenção. Se necessário, faça uma segunda leitura para compreender melhor, marcando partes que você pode não ter compreendido para pesquisar.",
+      "Identifique o assunto principal, as informações mais importantes e o que o texto quer comunicar."
+     ],
+     [
+      "Compare textos que falam sobre o mesmo assunto e observe o que eles têm de parecido e de diferente.",
+      "Observe como títulos, imagens, gráficos, tabelas e outros elementos ajudam a compreender o texto.",
+      "Nas histórias, identifique os personagens, o lugar, o tempo, o problema da história e como ela termina.",
+      "Revise conteúdos de gramática e ortografia por meio de exemplos e exercícios."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Resolva exercícios e problemas com atenção. Identifique o que precisa descobrir, destaque as informações importantes e estime o resultado antes de calcular.",
+      "Experimente diferentes estratégias de resolução. Use desenhos, tabelas, materiais, recursos digitais ou cálculos e compare os resultados.",
+      "Explique como pensou para chegar à resposta. Mostrar o caminho utilizado é tão importante quanto encontrar o resultado.",
+      "Observe, compare e explore formas geométricas no cotidiano. Utilize desenhos, dobraduras e materiais diversos para investigar e fazer descobertas."
+     ],
+     [
+      "Procure compreender o significado dos conceitos, dos procedimentos e das estratégias que utiliza. Pergunte- se: por que essa resolução funciona? Existe outra maneira de resolver?",
+      "Aprenda com os erros. Identifique em que etapa eles ocorreram, refaça o percurso e teste novas estratégias. Conhecer outras formas de resolver problemas amplia seu conhecimento matemático.",
+      "Revise os conteúdos sempre que necessário. Consulte seu material de estudo, anotações e registros para esclarecer dúvidas."
+     ]
+    ]
+   }
+  },
+  "segmento": "EF1"
+ },
+ "6º EF": {
+  "descritores": {
+   "LP": [
+    "Distinguir o que é fato e o que é opinião em um texto.",
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar característica da linguagem formal e informal e em quais situações utiliza-las.",
+    "Identificar características de textos do dia a dia.",
+    "Identificar como o uso dos tempos e modos verbais contribui para a construção dos sentidos do texto.",
+    "Identificar marcas de variação linguística em situações comunicativas de uso.",
+    "Identificar o tema, a finalidade e/ou o público-alvo de diferentes gêneros textuais.",
+    "Reconhecer costumes, ideias e valores presentes em diferentes obras artísticas e literárias.",
+    "Reconhecer elementos narrativos em diferentes gêneros (tempo, espaço, personagens, narrador, enredo).",
+    "Relacionar partes do texto por meio de palavras que retomam e conectam informações."
+   ],
+   "MAT": [
+    "Calcular porcentagens",
+    "Identificar frações equivalentes",
+    "Relacionar a representação de uma fração por meio de figuras à sua representação numérica",
+    "Relacionar frações e números decimais",
+    "Relacionar porcentagens, frações e números decimais",
+    "Representar números racionais na reta numérica",
+    "Resolver problemas de multiplicação e divisão com números decimais",
+    "Resolver problemas envolvendo frações como divisão ou como parte de uma quantidade, com resultado natural.",
+    "Resolver situações do cotidiano envolvendo adição ou subtração de frações.",
+    "Resolver situações do cotidiano envolvendo multiplicação ou divisão de frações."
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com seu(sua) professor(a).",
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica."
+   ],
+   [
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver atividades.",
+    "Observe suas conquistas e valorize aquilo que você já consegue fazer sozinho.",
+    "Não se preocupe se não entender tudo de uma vez. Retome os conteúdos sempre que precisar e avance aos poucos.",
+    "A Leia pode ser sua aliada nos momentos de estudo. Use-a para pesquisar conteúdos, esclarecer dúvidas e explorar novas atividades, exercícios e materiais de apoio na PEP."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Leia diferentes gêneros textuais. Destaque informações importantes e procure perceber o que o texto diz diretamente e aquilo que pode ser descoberto a partir de pistas.",
+      "Busque identificar os fatos, as opiniões e os argumentos em cada texto.",
+      "Analise também como imagens, gráficos, tabelas e vídeos contribuem com informações e para construir sentidos.",
+      "Nas narrativas, identifique personagens, tempo, espaço, enredo e foco narrativo."
+     ],
+     [
+      "Ao estudar gramática, observe como palavras, expressões e outros recursos da língua ajudam a organizar as ideias e construir sentidos.",
+      "Ao escrever, pense em quem vai ler seu texto, no que você quer comunicar e em como organizar suas ideias. Depois, revise o que escreveu.",
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Experimente diferentes formas de pensar e resolver um mesmo problema. Compare as estratégias utilizadas.",
+      "Procure compreender o significado dos conceitos, fórmulas e procedimentos. Busque responder à pergunta: por que devo fazer isso dessa maneira?",
+      "Resolva exercícios com diferentes níveis de dificuldade. Comece por questões mais simples para compreender o procedimento e avance para problemas mais desafiadores.",
+      "Utilize desenhos, esquemas, tabelas, gráficos, materiais manipuláveis e recursos digitais para representar suas ideias e apoiar sua compreensão.",
+      "Quando errar, não apague simplesmente a resposta. Identifique onde e por que errou e tente resolver novamente."
+     ],
+     [
+      "Revise e retome conteúdos. Busque no material didático, nas anotações do seu caderno ou em outros materiais os conteúdos relacionados às suas dúvidas ou dificuldades.",
+      "Converse com colegas e professores e faça perguntas. Observar outras formas de resolver ajuda a ampliar o conhecimento matemático e a compreender melhor os conteúdos.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Depois de resolver um exercício, tente explicar o caminho utilizado, como se estivesse ensinando outra pessoa. Mostrar como você pensou é tão importante quanto chegar à resposta."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Leia diferentes gêneros textuais. Destaque informações importantes e procure perceber o que o texto diz diretamente e aquilo que pode ser descoberto a partir de pistas.",
+      "Busque identificar os fatos, as opiniões e os argumentos em cada texto.",
+      "Analise também como imagens, gráficos, tabelas e vídeos contribuem com informações e para construir sentidos.",
+      "Nas narrativas, identifique personagens, tempo, espaço, enredo e foco narrativo."
+     ],
+     [
+      "Ao estudar gramática, observe como palavras, expressões e outros recursos da língua ajudam a organizar as ideias e construir sentidos.",
+      "Ao escrever, pense em quem vai ler seu texto, no que você quer comunicar e em como organizar suas ideias. Depois, revise o que escreveu.",
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Experimente diferentes formas de pensar e resolver um mesmo problema. Compare as estratégias utilizadas.",
+      "Procure compreender o significado dos conceitos, fórmulas e procedimentos. Busque responder à pergunta: por que devo fazer isso dessa maneira?",
+      "Resolva exercícios com diferentes níveis de dificuldade. Comece por questões mais simples para compreender o procedimento e avance para problemas mais desafiadores.",
+      "Utilize desenhos, esquemas, tabelas, gráficos, materiais manipuláveis e recursos digitais para representar suas ideias e apoiar sua compreensão.",
+      "Quando errar, não apague simplesmente a resposta. Identifique onde e por que errou e tente resolver novamente."
+     ],
+     [
+      "Revise e retome conteúdos. Busque no material didático, nas anotações do seu caderno ou em outros materiais os conteúdos relacionados às suas dúvidas ou dificuldades.",
+      "Converse com colegas e professores e faça perguntas. Observar outras formas de resolver ajuda a ampliar o conhecimento matemático e a compreender melhor os conteúdos.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Depois de resolver um exercício, tente explicar o caminho utilizado, como se estivesse ensinando outra pessoa. Mostrar como você pensou é tão importante quanto chegar à resposta."
+     ]
+    ]
+   }
+  },
+  "segmento": "EF2"
+ },
+ "7º EF": {
+  "descritores": {
+   "LP": [
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar a ideia principal, os argumentos e as formas de convencer o leitor em textos.",
+    "Identificar características de textos da vida pública",
+    "Identificar como as palavras são formadas e como isso influencia seu significado.",
+    "Identificar o sentido figurado ou literal das palavras considerando o seu contexto de uso.",
+    "Identificar o tema, a finalidade e/ou o público-alvo de diferentes gêneros textuais.",
+    "Identificar orações e sua estrutura básica a partir do núcleo verbal.",
+    "Reconhecer costumes, ideias e valores presentes em diferentes obras artísticas e literárias.",
+    "Reconhecer elementos narrativos em diferentes gêneros (tempo, espaço, personagens, narrador, enredo).",
+    "Relacionar informações em textos verbais, com imagens e digitais."
+   ],
+   "MAT": [
+    "Associar frações a razões que indicam semelhança",
+    "Determinar a medida dos ângulos internos e externos de polígonos regulares",
+    "Determinar os termos de uma sequência",
+    "Identificar eixo de simetria em objetos e figuras geométricas",
+    "Identificar que a soma dos ângulos internos de um triângulo é 180°",
+    "Identificar regularidades em sequências",
+    "Resolver problemas com escalas e distãncias representadas em mapas, plantas e croquis",
+    "Resolver problemas com sequências numéricas ou de figuras utilizando expressões matemáticas",
+    "Resolver problemas que relacionam grandezas diferentes e suas unidades de medida",
+    "Resolver situações envolvendo ângulos opostos pelo vértice, camplementares e suplementares"
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com seu(sua) professor(a).",
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica."
+   ],
+   [
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver atividades.",
+    "Observe suas conquistas e valorize aquilo que você já consegue fazer sozinho.",
+    "Não se preocupe se não entender tudo de uma vez. Retome os conteúdos sempre que precisar e avance aos poucos.",
+    "A Leia pode ser sua aliada nos momentos de estudo. Use-a para pesquisar conteúdos, esclarecer dúvidas e explorar novas atividades, exercícios e materiais de apoio na PEP."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Leia diferentes gêneros textuais. Destaque informações importantes e procure perceber o que o texto diz diretamente e aquilo que pode ser descoberto a partir de pistas.",
+      "Busque identificar os fatos, as opiniões e os argumentos em cada texto.",
+      "Analise também como imagens, gráficos, tabelas e vídeos contribuem com informações e para construir sentidos.",
+      "Nas narrativas, identifique personagens, tempo, espaço, enredo e foco narrativo."
+     ],
+     [
+      "Ao estudar gramática, observe como palavras, expressões e outros recursos da língua ajudam a organizar as ideias e construir sentidos.",
+      "Ao escrever, pense em quem vai ler seu texto, no que você quer comunicar e em como organizar suas ideias. Depois, revise o que escreveu.",
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Experimente diferentes formas de pensar e resolver um mesmo problema. Compare as estratégias utilizadas.",
+      "Procure compreender o significado dos conceitos, fórmulas e procedimentos. Busque responder à pergunta: por que devo fazer isso dessa maneira?",
+      "Resolva exercícios com diferentes níveis de dificuldade. Comece por questões mais simples para compreender o procedimento e avance para problemas mais desafiadores.",
+      "Utilize desenhos, esquemas, tabelas, gráficos, materiais manipuláveis e recursos digitais para representar suas ideias e apoiar sua compreensão.",
+      "Quando errar, não apague simplesmente a resposta. Identifique onde e por que errou e tente resolver novamente."
+     ],
+     [
+      "Revise e retome conteúdos. Busque no material didático, nas anotações do seu caderno ou em outros materiais os conteúdos relacionados às suas dúvidas ou dificuldades.",
+      "Converse com colegas e professores e faça perguntas. Observar outras formas de resolver ajuda a ampliar o conhecimento matemático e a compreender melhor os conteúdos.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Depois de resolver um exercício, tente explicar o caminho utilizado, como se estivesse ensinando outra pessoa. Mostrar como você pensou é tão importante quanto chegar à resposta."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Leia diferentes gêneros textuais. Destaque informações importantes e procure perceber o que o texto diz diretamente e aquilo que pode ser descoberto a partir de pistas.",
+      "Busque identificar os fatos, as opiniões e os argumentos em cada texto.",
+      "Analise também como imagens, gráficos, tabelas e vídeos contribuem com informações e para construir sentidos.",
+      "Nas narrativas, identifique personagens, tempo, espaço, enredo e foco narrativo."
+     ],
+     [
+      "Ao estudar gramática, observe como palavras, expressões e outros recursos da língua ajudam a organizar as ideias e construir sentidos.",
+      "Ao escrever, pense em quem vai ler seu texto, no que você quer comunicar e em como organizar suas ideias. Depois, revise o que escreveu.",
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Experimente diferentes formas de pensar e resolver um mesmo problema. Compare as estratégias utilizadas.",
+      "Procure compreender o significado dos conceitos, fórmulas e procedimentos. Busque responder à pergunta: por que devo fazer isso dessa maneira?",
+      "Resolva exercícios com diferentes níveis de dificuldade. Comece por questões mais simples para compreender o procedimento e avance para problemas mais desafiadores.",
+      "Utilize desenhos, esquemas, tabelas, gráficos, materiais manipuláveis e recursos digitais para representar suas ideias e apoiar sua compreensão.",
+      "Quando errar, não apague simplesmente a resposta. Identifique onde e por que errou e tente resolver novamente."
+     ],
+     [
+      "Revise e retome conteúdos. Busque no material didático, nas anotações do seu caderno ou em outros materiais os conteúdos relacionados às suas dúvidas ou dificuldades.",
+      "Converse com colegas e professores e faça perguntas. Observar outras formas de resolver ajuda a ampliar o conhecimento matemático e a compreender melhor os conteúdos.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Depois de resolver um exercício, tente explicar o caminho utilizado, como se estivesse ensinando outra pessoa. Mostrar como você pensou é tão importante quanto chegar à resposta."
+     ]
+    ]
+   }
+  },
+  "segmento": "EF2"
+ },
+ "8º EF": {
+  "descritores": {
+   "LP": [
+    "Analisar marcas utilizadas pelo autor para expressar (modalizadores) ou neutralizar (impessoalização) intenções e posicionamentos.",
+    "Entender ideias que o texto sugere, sem estarem expressas.",
+    "Identificar a função que cada palavra ou expressão desempenha na oração.",
+    "Identificar características e formas de linguagem de textos de estudo e pesquisa.",
+    "Identificar marcas de variação linguística em situações comunicativas de uso.",
+    "Identificar o sentido figurado ou literal das palavras considerando o seu contexto de uso.",
+    "Identificar o tema, a finalidade e/ou o público-alvo de diferentes gêneros textuais.",
+    "Identificar os efeitos de sentido do uso de diferentes vozes verbais.",
+    "Reconhecer o efeito de sentido de figuras de linguagem em textos de diferentes gêneros.",
+    "Relacionar ideias em textos por meio de palavras que mostram a relação entre elas."
+   ],
+   "MAT": [
+    "Calcular a área de figuras planas compostas",
+    "Calcular a área do círculo utilizando o número π (pi)",
+    "Calcular o comprimento da circunferência utilizando o número π (pi)",
+    "Calcular o volume de sólidos geométricos",
+    "Identificar a equação do 2º grau que representa uma situação-problema",
+    "Identificar figuras obtidas pela combinação de translações, rotações e reflexões",
+    "Identificar uma figura obtida por translação, rotação ou reflexão",
+    "Resolver problemas com o cálculo da área ou do perímetro de figuras planas",
+    "Resolver problemas utilizando a adição e subtração de polinômios",
+    "Resolver problemas utilizando equações do 2º grau"
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com seu(sua) professor(a).",
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica."
+   ],
+   [
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver atividades.",
+    "Observe suas conquistas e valorize aquilo que você já consegue fazer sozinho.",
+    "Não se preocupe se não entender tudo de uma vez. Retome os conteúdos sempre que precisar e avance aos poucos.",
+    "A Leia pode ser sua aliada nos momentos de estudo. Use-a para pesquisar conteúdos, esclarecer dúvidas e explorar novas atividades, exercícios e materiais de apoio na PEP."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Leia diferentes gêneros textuais. Destaque informações importantes e procure perceber o que o texto diz diretamente e aquilo que pode ser descoberto a partir de pistas.",
+      "Busque identificar os fatos, as opiniões e os argumentos em cada texto.",
+      "Analise também como imagens, gráficos, tabelas e vídeos contribuem com informações e para construir sentidos.",
+      "Nas narrativas, identifique personagens, tempo, espaço, enredo e foco narrativo."
+     ],
+     [
+      "Ao estudar gramática, observe como palavras, expressões e outros recursos da língua ajudam a organizar as ideias e construir sentidos.",
+      "Ao escrever, pense em quem vai ler seu texto, no que você quer comunicar e em como organizar suas ideias. Depois, revise o que escreveu.",
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Experimente diferentes formas de pensar e resolver um mesmo problema. Compare as estratégias utilizadas.",
+      "Procure compreender o significado dos conceitos, fórmulas e procedimentos. Busque responder à pergunta: por que devo fazer isso dessa maneira?",
+      "Resolva exercícios com diferentes níveis de dificuldade. Comece por questões mais simples para compreender o procedimento e avance para problemas mais desafiadores.",
+      "Utilize desenhos, esquemas, tabelas, gráficos, materiais manipuláveis e recursos digitais para representar suas ideias e apoiar sua compreensão.",
+      "Quando errar, não apague simplesmente a resposta. Identifique onde e por que errou e tente resolver novamente."
+     ],
+     [
+      "Revise e retome conteúdos. Busque no material didático, nas anotações do seu caderno ou em outros materiais os conteúdos relacionados às suas dúvidas ou dificuldades.",
+      "Converse com colegas e professores e faça perguntas. Observar outras formas de resolver ajuda a ampliar o conhecimento matemático e a compreender melhor os conteúdos.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Depois de resolver um exercício, tente explicar o caminho utilizado, como se estivesse ensinando outra pessoa. Mostrar como você pensou é tão importante quanto chegar à resposta."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Leia diferentes gêneros textuais. Destaque informações importantes e procure perceber o que o texto diz diretamente e aquilo que pode ser descoberto a partir de pistas.",
+      "Busque identificar os fatos, as opiniões e os argumentos em cada texto.",
+      "Analise também como imagens, gráficos, tabelas e vídeos contribuem com informações e para construir sentidos.",
+      "Nas narrativas, identifique personagens, tempo, espaço, enredo e foco narrativo."
+     ],
+     [
+      "Ao estudar gramática, observe como palavras, expressões e outros recursos da língua ajudam a organizar as ideias e construir sentidos.",
+      "Ao escrever, pense em quem vai ler seu texto, no que você quer comunicar e em como organizar suas ideias. Depois, revise o que escreveu.",
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Experimente diferentes formas de pensar e resolver um mesmo problema. Compare as estratégias utilizadas.",
+      "Procure compreender o significado dos conceitos, fórmulas e procedimentos. Busque responder à pergunta: por que devo fazer isso dessa maneira?",
+      "Resolva exercícios com diferentes níveis de dificuldade. Comece por questões mais simples para compreender o procedimento e avance para problemas mais desafiadores.",
+      "Utilize desenhos, esquemas, tabelas, gráficos, materiais manipuláveis e recursos digitais para representar suas ideias e apoiar sua compreensão.",
+      "Quando errar, não apague simplesmente a resposta. Identifique onde e por que errou e tente resolver novamente."
+     ],
+     [
+      "Revise e retome conteúdos. Busque no material didático, nas anotações do seu caderno ou em outros materiais os conteúdos relacionados às suas dúvidas ou dificuldades.",
+      "Converse com colegas e professores e faça perguntas. Observar outras formas de resolver ajuda a ampliar o conhecimento matemático e a compreender melhor os conteúdos.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Depois de resolver um exercício, tente explicar o caminho utilizado, como se estivesse ensinando outra pessoa. Mostrar como você pensou é tão importante quanto chegar à resposta."
+     ]
+    ]
+   }
+  },
+  "segmento": "EF2"
+ },
+ "9º EF": {
+  "descritores": {
+   "LP": [
+    "Analisar como diferentes textos se relacionam entre si.",
+    "Identificar a função que cada palavra ou expressão desempenha na oração.",
+    "Identificar característica da linguagem formal e informal e em quais situações utiliza-las.",
+    "Identificar características e formas de linguagem de textos jornalísticos-midiáticos.",
+    "Identificar como as palavras são formadas e como isso influencia seu significado.",
+    "Identificar o sentido figurado ou literal das palavras considerando o seu contexto de uso.",
+    "Identificar o tema, a finalidade e/ou o público-alvo de diferentes gêneros textuais.",
+    "Reconhecer o efeito de sentido de figuras de linguagem em textos de diferentes gêneros.",
+    "Relacionar informações em textos verbais, com imagens e digitais.",
+    "Relacionar textos escritos e textos que usam imagens."
+   ],
+   "MAT": [
+    "Calcular o ponto médio e a distância entre pontos no plano cartesiano.",
+    "Determinar a medida de um ângulo em um feixe de retas paralelas e transversais",
+    "Determinar ângulos centrais e inscritos",
+    "Identificar triângulos semelhantes por seus ângulos e lados proporcionais",
+    "Resolver problemas que envolvem triângulos semelhantes",
+    "Resolver problemas utilizando as relações entre as medidas de um triângulo retângulo",
+    "Resolver problemas utilizando as relações trigonométricas no triângulo retângulo",
+    "Resolver problemas utilizando o Teorema de Tales",
+    "Resolver situações cotidianas utilizando o Teorema de Pitágoras",
+    "Utilizar semelhança de triângulos para resolver problemas"
+   ]
+  },
+  "rotina": [
+   [
+    "Reserve momentos da semana para estudar e revisar cada componente curricular.",
+    "Escolha um local tranquilo, organize os materiais e evite distrações.",
+    "Defina pequenas metas, como revisar um conteúdo, resolver atividades ou esclarecer uma dúvida.",
+    "Registre suas dificuldades para retomá-las e conversar com seu(sua) professor(a).",
+    "Revise suas atividades e observe quais questões você resolveu com facilidade e quais ainda precisam ser retomadas. Anote suas dificuldades e acompanhe seu progresso enquanto estuda e pratica."
+   ],
+   [
+    "Experimente diferentes formas de estudar, como ler, fazer anotações, criar esquemas, fazer desenhos, explicar o conteúdo com suas palavras e resolver atividades.",
+    "Observe suas conquistas e valorize aquilo que você já consegue fazer sozinho.",
+    "Não se preocupe se não entender tudo de uma vez. Retome os conteúdos sempre que precisar e avance aos poucos.",
+    "A Leia pode ser sua aliada nos momentos de estudo. Use-a para pesquisar conteúdos, esclarecer dúvidas e explorar novas atividades, exercícios e materiais de apoio na PEP."
+   ]
+  ],
+  "dicas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Leia diferentes gêneros textuais. Destaque informações importantes e procure perceber o que o texto diz diretamente e aquilo que pode ser descoberto a partir de pistas.",
+      "Busque identificar os fatos, as opiniões e os argumentos em cada texto.",
+      "Analise também como imagens, gráficos, tabelas e vídeos contribuem com informações e para construir sentidos.",
+      "Nas narrativas, identifique personagens, tempo, espaço, enredo e foco narrativo."
+     ],
+     [
+      "Ao estudar gramática, observe como palavras, expressões e outros recursos da língua ajudam a organizar as ideias e construir sentidos.",
+      "Ao escrever, pense em quem vai ler seu texto, no que você quer comunicar e em como organizar suas ideias. Depois, revise o que escreveu.",
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Experimente diferentes formas de pensar e resolver um mesmo problema. Compare as estratégias utilizadas.",
+      "Procure compreender o significado dos conceitos, fórmulas e procedimentos. Busque responder à pergunta: por que devo fazer isso dessa maneira?",
+      "Resolva exercícios com diferentes níveis de dificuldade. Comece por questões mais simples para compreender o procedimento e avance para problemas mais desafiadores.",
+      "Utilize desenhos, esquemas, tabelas, gráficos, materiais manipuláveis e recursos digitais para representar suas ideias e apoiar sua compreensão.",
+      "Quando errar, não apague simplesmente a resposta. Identifique onde e por que errou e tente resolver novamente."
+     ],
+     [
+      "Revise e retome conteúdos. Busque no material didático, nas anotações do seu caderno ou em outros materiais os conteúdos relacionados às suas dúvidas ou dificuldades.",
+      "Converse com colegas e professores e faça perguntas. Observar outras formas de resolver ajuda a ampliar o conhecimento matemático e a compreender melhor os conteúdos.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Depois de resolver um exercício, tente explicar o caminho utilizado, como se estivesse ensinando outra pessoa. Mostrar como você pensou é tão importante quanto chegar à resposta."
+     ]
+    ]
+   }
+  },
+  "dicas_genericas": {
+   "LP": {
+    "titulo": "Para avançar em Língua Portuguesa",
+    "colunas": [
+     [
+      "Leia diferentes gêneros textuais. Destaque informações importantes e procure perceber o que o texto diz diretamente e aquilo que pode ser descoberto a partir de pistas.",
+      "Busque identificar os fatos, as opiniões e os argumentos em cada texto.",
+      "Analise também como imagens, gráficos, tabelas e vídeos contribuem com informações e para construir sentidos.",
+      "Nas narrativas, identifique personagens, tempo, espaço, enredo e foco narrativo."
+     ],
+     [
+      "Ao estudar gramática, observe como palavras, expressões e outros recursos da língua ajudam a organizar as ideias e construir sentidos.",
+      "Ao escrever, pense em quem vai ler seu texto, no que você quer comunicar e em como organizar suas ideias. Depois, revise o que escreveu.",
+      "Aprofunde a leitura dos textos. Identifique tema, finalidade e público-alvo, procure pistas, relações e sentidos que não estão diretamente apresentados.",
+      "Observe o uso da pontuação, dos elementos de coesão, das classes e funções das palavras, das relações entre orações e da regência. Procure entender por que determinado recurso foi utilizado e que efeito ele produz no texto."
+     ]
+    ]
+   },
+   "MAT": {
+    "titulo": "Para avançar em Matemática",
+    "colunas": [
+     [
+      "Experimente diferentes formas de pensar e resolver um mesmo problema. Compare as estratégias utilizadas.",
+      "Procure compreender o significado dos conceitos, fórmulas e procedimentos. Busque responder à pergunta: por que devo fazer isso dessa maneira?",
+      "Resolva exercícios com diferentes níveis de dificuldade. Comece por questões mais simples para compreender o procedimento e avance para problemas mais desafiadores.",
+      "Utilize desenhos, esquemas, tabelas, gráficos, materiais manipuláveis e recursos digitais para representar suas ideias e apoiar sua compreensão.",
+      "Quando errar, não apague simplesmente a resposta. Identifique onde e por que errou e tente resolver novamente."
+     ],
+     [
+      "Revise e retome conteúdos. Busque no material didático, nas anotações do seu caderno ou em outros materiais os conteúdos relacionados às suas dúvidas ou dificuldades.",
+      "Converse com colegas e professores e faça perguntas. Observar outras formas de resolver ajuda a ampliar o conhecimento matemático e a compreender melhor os conteúdos.",
+      "Faça exercícios sobre o tema e, ao resolver os problemas, leia a situação com atenção, identifique o que precisa descobrir e selecione as informações mais importantes.",
+      "Depois de resolver um exercício, tente explicar o caminho utilizado, como se estivesse ensinando outra pessoa. Mostrar como você pensou é tão importante quanto chegar à resposta."
+     ]
+    ]
+   }
+  },
+  "segmento": "EF2"
+ }
+}

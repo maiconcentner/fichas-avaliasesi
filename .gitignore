@@ -1,0 +1,18 @@
+# Dados de alunos reais: nunca sobem (repositório público, LGPD)
+ferramenta/data/alunos_oficiais.json
+CE_026_Jau/
+fichas_geradas/
+saida*/
+alunos*.json
+alunos*.xlsx
+!modelos_fichas/modelo_planilha_entrada.xlsx
+
+# Arquivos temporários da ferramenta
+ferramenta/data/_cal.*
+_fichas.html
+_t.html
+_m.html
+__pycache__/
+*.pyc
+.DS_Store
+~$*
